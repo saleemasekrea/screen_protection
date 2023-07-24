@@ -166,4 +166,6 @@ in the pattern screen (3 by default) (`int`)
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-# screen_protection
+Authors :
+- Amaar Meslmani .
+- Saleem Asekrea .
