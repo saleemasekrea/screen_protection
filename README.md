@@ -17,49 +17,48 @@ with high preferable customization
 
 
 ## Demo
-
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/saleemasekrea/lock_screen/blob/main/images/1.jpg" width="600px" height="400px">
+      <img src="https://github.com/saleemasekrea/screen_protection/blob/main/images/1.jpg" width="600px" height="400px">
       <br />
     </td>
     <td align="center">
-      <img src="https://github.com/saleemasekrea/lock_screen/blob/main/images/2.jpg" width="600px" height="400px">
+      <img src="https://github.com/saleemasekrea/screen_protection/blob/main/images/2.jpg" width="600px" height="400px">
       <br />
     </td>
     <td align="center">
-      <img src="https://github.com/saleemasekrea/lock_screen/blob/main/images/3.jpg" width="600px" height="400px">
+      <img src="https://github.com/saleemasekrea/screen_protection/blob/main/images/3.jpg" width="600px" height="400px">
       <br />
     </td>
     <td align="center">
-      <img src="https://github.com/saleemasekrea/lock_screen/blob/main/images/4.jpg" width="600px" height="400px">
+      <img src="https://github.com/saleemasekrea/screen_protection/blob/main/images/4.jpg" width="600px" height="400px">
       <br />    
     </td>
     <td align="center">
-      <img src="https://github.com/saleemasekrea/lock_screen/blob/main/images/5.jpg" width="600px" height="400px">
+      <img src="https://github.com/saleemasekrea/screen_protection/blob/main/images/5.jpg" width="600px" height="400px">
       <br />   
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/saleemasekrea/lock_screen/blob/main/images/6.jpg" width="600px" height="400px">
+      <img src="https://github.com/saleemasekrea/screen_protection/blob/main/images/6.jpg" width="600px" height="400px">
       <br />  
     </td>
     <td align="center">
-      <img src="https://github.com/saleemasekrea/lock_screen/blob/main/images/7.jpg" width="600px" height="400px">
+      <img src="https://github.com/saleemasekrea/screen_protection/blob/main/images/7.jpg" width="600px" height="400px">
       <br />  
     </td>
     <td align="center">
-      <img src="https://github.com/saleemasekrea/lock_screen/blob/main/images/8.jpg" width="600px" height="400px">
+      <img src="https://github.com/saleemasekrea/screen_protection/blob/main/images/8.jpg" width="600px" height="400px">
       <br />  
     </td>
     <td align="center">
-      <img src="https://github.com/saleemasekrea/lock_screen/blob/main/images/9.jpg" width="600px" height="400px">
+      <img src="https://github.com/saleemasekrea/screen_protection/blob/main/images/9.jpg" width="600px" height="400px">
       <br />  
     </td>
     <td align="center">
-      <img src="https://github.com/saleemasekrea/lock_screen/blob/main/images/10.jpg" width="600px" height="400px">
+      <img src="https://github.com/saleemasekrea/screen_protection/blob/main/images/10.jpg" width="600px" height="400px">
       <br />  
     </td>
   </tr>
